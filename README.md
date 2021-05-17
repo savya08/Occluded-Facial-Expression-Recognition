@@ -54,3 +54,8 @@ Upon finetuning the occluded-net using privileged information, I observe a gain 
   </tr>
 </table>
 
+## References
+- Bowen Pan, Shangfei Wang, and Bin Xia. 2019. "Occluded Facial Expression Recognition Enhanced through Privileged Information." In Proceedings of the 27th ACM International Conference on Multimedia (MM '19). Association for Computing Machinery, New York, NY, USA, 566–573.
+- Li Shan and Deng Weihong and Du JunPing. "Reliable Crowdsourcing and Deep Locality-Preserving Learning for Expression Recognition in the Wild." 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017
+- Ali Mollahosseini, Behzad Hasani, Mohammad H. Mahoor. "AffectNet: A Database for Facial Expression, Valence, and Arousal Computing in the Wild." arXiv:1708.03985
+- Adrian Rosebrock. "Facial landmarks with dlib, OpenCV, and Python." April 2017. URL: https://bit.ly/3atL34q
